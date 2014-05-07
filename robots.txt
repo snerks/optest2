@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://snerks.github.io//github/sitemap.xml 
